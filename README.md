@@ -6,6 +6,6 @@
 * 在需要滚动条的元素上添加 `class="scrollbar"`
 
 ## 演示
-* 1.(https://yuunie.github.io/scrollbar/)[https://yuunie.github.io/scrollbar/]
+* 1.[https://yuunie.github.io/scrollbar/](https://yuunie.github.io/scrollbar/)
 ---
 TODO scrollbar1.html 中为新版本
