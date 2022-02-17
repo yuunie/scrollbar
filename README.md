@@ -12,3 +12,4 @@
 * TODO scrollbar1.html 中为新版本
 * TODO 鼠标拖动
 * TODO 样式美化
+* TODO 解决遮罩内容的问题（透明）
